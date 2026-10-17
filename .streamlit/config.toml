@@ -1,0 +1,31 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+font = "sans-serif"
+baseRadius = "0.6rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+linkColor = "#0B5F59"
+
+[theme.light]
+primaryColor = "#0F766E"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#F1EFE8"
+textColor = "#16212B"
+linkColor = "#0B5F59"
+
+[theme.dark]
+primaryColor = "#2DD4BF"
+backgroundColor = "#0E1A22"
+secondaryBackgroundColor = "#16262F"
+textColor = "#E8EEF0"
+linkColor = "#5EEAD4"

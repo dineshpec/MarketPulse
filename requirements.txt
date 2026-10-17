@@ -1,0 +1,8 @@
+crewai>=1.15
+crewai-tools>=1.15
+streamlit>=1.35
+python-dotenv>=1.0
+pydantic>=2.5
+fpdf2>=2.7
+markdown>=3.5
+pytest>=8.0

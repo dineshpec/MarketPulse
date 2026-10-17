@@ -1,0 +1,19 @@
+.env
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# Generated reports (keep the folder)
+reports/*.md
+reports/*.pdf
+!reports/.gitkeep
+.crewai/
+storage/
+
+# Saved run history (keep the folder)
+runs/*
+!runs/.gitkeep
+
+# Stray writer-tool output written to the working directory
+/report.md
